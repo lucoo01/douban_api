@@ -1,0 +1,17 @@
+{
+  "name": "douban_spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3",
+    "doubanbook": "^1.0.1",
+    "koa": "^2.13.1"
+  }
+}
